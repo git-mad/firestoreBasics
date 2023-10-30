@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591851562442",
+    "project_id": "testproject-adea5",
+    "storage_bucket": "testproject-adea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591851562442:android:54434bf2b3080a84a41b33",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaaHcI7B3-MKcwDdtI_XSCuI0NDWcbFl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
